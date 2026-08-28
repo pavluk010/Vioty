@@ -618,6 +618,11 @@ input {
   .footer-list {
     gap: 40px;
   }
+
+.hero-image{
+  display: none;
+}
+
 }
 
 @media (max-width: 480px) {
